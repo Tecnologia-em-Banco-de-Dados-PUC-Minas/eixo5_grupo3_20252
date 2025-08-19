@@ -1,11 +1,12 @@
 # Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
+# Previsão de inadimplência de crédito
+
 `Tecnologia em Banco de Dados`
 `2025/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto visa desenvolver um modelo supervisionado de aprendizado de máquina para prever a inadimplência em crédito com o objetivo de extrair padrões discriminativos que permitam antecipar o risco de crédito e suportar decisões financeiras na concessão de empréstimos, contribuindo para minimizar perdas e otimizar protocolos de aprovação. Sendo possivel então reduzir perdas financeiras, agilizar a tomada de decisão, personalizar condições de crédito de acordo com o perfil do cliente e garantir maior eficiência operacional. Além disso, o uso de técnicas de aprendizado de máquina proporciona análises mais precisas e escaláveis, contribuindo para a sustentabilidade e competitividade da instituição no mercado.
 
 ## Integrantes
 * Lucas Cardoso Mendonça
@@ -14,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva 
 
 # Documentação
 
