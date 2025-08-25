@@ -12,6 +12,7 @@ Este projeto visa desenvolver um modelo supervisionado de aprendizado de máquin
 * Lucas Cardoso Mendonça
 * Lucas Gomes de Oliveira  
 * Douglas Pereira Martins
+* Rodrigo Borges Martins
 
 
 ## Orientador
