@@ -37,4 +37,4 @@ A partir dessa base de dados, será possível analisar e estruturar um modelo de
 
  **OBJETIVOS**
 
-O objetivo do projeto é desenvolver um algoritmo de classificação capaz de prever a probabilidade de um cliente não pagar uma dívida ou atrasar o pagamento, utilizando dados históricos como base de análise. Com isso, busca-se oferecer às empresas uma ferramenta que auxilie na redução dos riscos financeiros e na tomada de decisões mais assertivas no processo de concessão de crédito.
+O objetivo do projeto é desenvolver um algoritmo de classificação (Aprendizado de máquina supervisionado) capaz de prever a probabilidade de um cliente não pagar uma dívida ou atrasar o pagamento, utilizando dados históricos como base de análise. Com isso, busca-se oferecer às empresas uma ferramenta que auxilie na redução dos riscos financeiros e na tomada de decisões mais assertivas no processo de concessão de crédito.
