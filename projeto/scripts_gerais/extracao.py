@@ -4,12 +4,13 @@ import boto3
 import requests
 
 # Configurações
+GIT_USER = "lucascmendonca" # Seu usuario do git
 BUCKET = "projeto-puc-fraud-prevention"
 RAW_PREFIX = "raw/"
 ZIP_FILENAME = "credit_risk_dataset.csv.zip"
 
 # URL do ZIP no GitHub (link direto para o arquivo)
-GITHUB_ZIP_URL = "https://github.com/seu-usuario/seu-repo/raw/main/base_dados/credit_risk_dataset.csv.zip"
+GITHUB_ZIP_URL = f"https://raw.githubusercontent.com/{GIT_USER}/eixo5_grupo3_20252/main/projeto/base_dados/credit_risk_dataset.csv.zip"
 
 def main():
     # Baixar arquivo do GitHub
