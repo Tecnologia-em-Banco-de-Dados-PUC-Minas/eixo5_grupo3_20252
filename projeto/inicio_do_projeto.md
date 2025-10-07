@@ -1,3 +1,5 @@
+ # INICIO DO PROJETO
+
 **PROBLEMA**
 
 As empresas que lidam com inadimplência de crédito enfrentam diversos problemas que afetam diretamente sua saúde financeira, operações e capacidade de crescimento. Os principais são: 
