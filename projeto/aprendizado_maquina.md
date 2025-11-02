@@ -4,11 +4,11 @@
 
 A Regressão Logística é um modelo linear que, apesar do nome, é utilizado para classificação. Ele modela a probabilidade de uma determinada classe (no caso, inadimplência) ocorrer. O modelo calcula uma soma ponderada das variáveis de entrada e aplica a função logística (ou sigmoide) para transformar esse valor em uma probabilidade entre 0 e 1.
 
-![Fórmula da Função Sigmoide](projeto/images/equacao_1.png)
+![Fórmula da Função Sigmoide](images/equacao_1.png)
 
 Onde z é a combinação linear das variáveis e seus respectivos pesos (coeficientes):
 
-![Fórmula da Combinação Linear](projeto/images/equacao_2.png)
+![Fórmula da Combinação Linear](images/equacao_2.png)
 
 Os coeficientes (β) são aprendidos durante o treinamento e indicam o impacto positivo ou negativo de cada variável na probabilidade de inadimplência.
 
@@ -47,20 +47,20 @@ Após o treinamento e teste dos modelos em um conjunto de dados separado, os res
 
 O desempenho quantitativo dos modelos é resumido na Tabela 1.
 
-![Tabela 1 - Comparativo de Métricas de Desempenho](projeto/images/tabela_metricas.png)
+![Tabela 1 - Comparativo de Métricas de Desempenho](images/tabela_metricas.png)
 
 A **Figura 1** mostra a **Curva ROC** plotada para visualizar a capacidade de discriminação geral de cada modelo.  
 A área sob a curva (AUC) confirma a superioridade do Random Forest.
 
-![Figura 1 - Curva ROC dos Modelos](projeto/images/figura_1.png)
+![Figura 1 - Curva ROC dos Modelos](images/figura_1.png)
 
 A **Figura 2** ilustra a comparação direta das métricas de Acurácia, Precisão, Recall e F1-Score, evidenciando o trade-off entre Precisão e Recall.
 
-![Figura 2 - Comparativo das Métricas de Desempenho](projeto/images/figura_2.png)
+![Figura 2 - Comparativo das Métricas de Desempenho](images/figura_2.png)
 
 A análise dos erros é aprofundada na **Figura 3**, que apresenta as matrizes de confusão de forma visual. É notável a drástica redução de Falsos Positivos (de 1601 para 43) no modelo Random Forest, ao custo de um pequeno aumento nos Falsos Negativos (de 435 para 575).
 
-![Figura 3 - Matrizes de Confusão dos Modelos](projeto/images/figura_3.png)
+![Figura 3 - Matrizes de Confusão dos Modelos](images/figura_3.png)
 
 ---
 
@@ -70,4 +70,4 @@ Para entender os critérios de decisão de cada modelo, foi realizada uma análi
 Ambos os modelos concordam que `loan_percent_income` e `loan_grade` são os fatores mais críticos.  
 O gráfico da Regressão Logística detalha quais fatores aumentam (coeficiente positivo) ou diminuem (coeficiente negativo) o risco, enquanto o Random Forest ranqueia as variáveis por seu poder preditivo geral.
 
-![Figura 4 - Importância das Variáveis](projeto/images/figura_4.png)
+![Figura 4 - Importância das Variáveis](images/figura_4.png)
