@@ -1,6 +1,7 @@
 # Análise dos Resultados 
 
-[Base de dados analisada](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo3_20252/blob/be1c1afc1417d63435bbd88baf67802be9cf26ed/projeto/base_dados/credit_risk_dataset.csv.zip)
+[Base de dados](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo3_20252/blob/be1c1afc1417d63435bbd88baf67802be9cf26ed/projeto/base_dados/credit_risk_dataset.csv.zip)
+[Modelos de ML utilizados](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo3_20252/blob/6fe1d57c63fb29720a984b946800e76ed9175325/projeto/aprendizado_maquina.md)
 
 ## 1. Resultados e Discussão
 Após o treinamento e teste dos modelos em um conjunto de dados separado, os resultados foram compilados e analisados tanto quantitativamente, por meio de métricas, quanto qualitativamente, por meio de visualizações gráficas.
