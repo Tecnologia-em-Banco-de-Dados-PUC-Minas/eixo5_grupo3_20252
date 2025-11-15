@@ -1,6 +1,6 @@
 # Análise dos Resultados 
 
-**Análise da base de dados:** (projeto/base_dados/credit_risk_dataset.csv.zip)
+**Análise da base de dados:**[Base de dados](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo3_20252/blob/be1c1afc1417d63435bbd88baf67802be9cf26ed/projeto/base_dados/credit_risk_dataset.csv.zip)
 
 ## 1. Resultados e Discussão
 Após o treinamento e teste dos modelos em um conjunto de dados separado, os resultados foram compilados e analisados tanto quantitativamente, por meio de métricas, quanto qualitativamente, por meio de visualizações gráficas.
