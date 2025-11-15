@@ -1,7 +1,8 @@
-   #Análise dos Resultados 
-##1. Resultados e Discussão
+# Análise dos Resultados 
+
+## 1. Resultados e Discussão
 Após o treinamento e teste dos modelos em um conjunto de dados separado, os resultados foram compilados e analisados tanto quantitativamente, por meio de métricas, quanto qualitativamente, por meio de visualizações gráficas.
-        **Análise da base de dados:projeto/base_dados/credit_risk_dataset.csv.zip** 
+   **Análise da base de dados:** projeto/base_dados/credit_risk_dataset.csv.zip
 
 1.1. Desempenho Geral dos Modelos
 O desempenho quantitativo dos modelos é resumido na Tabela 1.
