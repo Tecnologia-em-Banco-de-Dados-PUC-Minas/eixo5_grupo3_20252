@@ -13,7 +13,6 @@ Este projeto visa desenvolver um modelo supervisionado de aprendizado de máquin
 * Lucas Gomes de Oliveira  
 * Douglas Pereira Martins
 * Rodrigo Borges Martins
-* Luan Lacerda Ramos
 
 
 ## Orientador
