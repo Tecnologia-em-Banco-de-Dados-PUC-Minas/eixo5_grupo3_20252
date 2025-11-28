@@ -1,5 +1,3 @@
-# Modelo de Previsão de Risco de Crédito
-
 ## Conclusão do Projeto
 
 Este projeto desenvolveu e comparou modelos de machine learning para previsão de risco de crédito, com resultados que demonstram a superioridade do **Random Forest (RF)** sobre a **Regressão Logística (RL)**.
